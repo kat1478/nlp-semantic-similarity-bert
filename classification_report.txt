@@ -1,0 +1,9 @@
+Classification Report:
+               precision    recall  f1-score   support
+
+Not Duplicate       0.93      0.91      0.92     25505
+    Duplicate       0.86      0.89      0.87     14930
+
+     accuracy                           0.91     40435
+    macro avg       0.90      0.90      0.90     40435
+ weighted avg       0.91      0.91      0.91     40435
